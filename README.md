@@ -40,11 +40,20 @@ This project helps in practicing real-world frontend development skills by:
 
 <div align="center">
 
-![Website Screenshot](public/Pics/work.png)
-![Website Screenshot](public/Pics/anime.png)
-![Website Screenshot](public/Pics/main.png)
-![Website Screenshot](public/Pics/marquee.png)
-![Website Screenshot](public/Pics/Footer.png)
+### Work Section
+![Work Section](public/Pics/work.png)
+
+### Animation Section
+![Animation Section](public/Pics/anime.png)
+
+### Main  Page
+![Main page](public/Pics/main.png)
+
+### Marquee Section
+![Marquee Section - Scrolling text animations](public/Pics/marquee.png)
+
+### Footer Section
+![Footer Section](public/Pics/Footer.png)
 
 </div>
 
@@ -60,13 +69,5 @@ _No copyright infringement intended._
 
 ---
 
-## 🚀 How to Run Locally
-
-1. Clone the repo  
-   ```bash
-   git clone https://github.com/vighnesh204/Refokus-UI-Clone.git
-
-
----
 
 
