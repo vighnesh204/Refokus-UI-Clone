@@ -59,15 +59,27 @@ This project helps in practicing real-world frontend development skills by:
 
 ---
 
-## ⚠️ Important Note
+## ⚠️ Legal Disclaimer
 
-This project is a **clone created for learning purposes only**.  
-All credits go to the original **Refokus Official Website**:  
-[https://www.refokus.com](https://www.refokus.com)
+This project is created **purely for educational purposes** and personal skill development.
+- Not for commercial use or redistribution
+- All design credits belong to the original Refokus team
+
+**Original Website**: [https://www.refokus.com](https://www.refokus.com)
 
 _No copyright infringement intended._
 
 ---
 
+## 🚀 Quick Start
+```bash
+# Clone the repository
+git clone https://github.com/vighnesh204/Refokus-UI-Clone.git
+
+# Install dependencies
+npm install
+
+# Start development server
+npm start
 
 
